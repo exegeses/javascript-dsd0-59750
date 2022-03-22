@@ -1,6 +1,7 @@
 <img src="extras/imagenes/javascript.jpg">
 
-# Javascript desde 0 - código 59750
+# Javascript desde 0 - código 59750 
+<img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=php&logoColor=white">
 
 > Curso Javascript desde 0 |  
 > Martes 19hs a 22hs |  
