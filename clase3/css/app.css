@@ -24,3 +24,21 @@ body{
     width: 500px;
     padding: 20px;
 }
+
+#caja{
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+}
+.botones{
+    padding: 8px 25px;
+    margin: 20px 10px;
+    border-radius: 8px;
+    background-color: #0F181F;
+    color: #f8f8f8;
+    border: none;
+}
+.botones:hover{
+    background-color: #262626;
+    color: #fff;
+}
