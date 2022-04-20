@@ -52,3 +52,30 @@ body{
 #top img{
     width: 180px;
 }
+
+#calculadora{
+    background-color: #423F3F;
+    width: 300px;
+    padding: 32px;
+    margin: auto;
+    border-radius: 16px;
+}
+    #txtCalc{
+        border: 1px dashed #ddd;
+        width: 236px;
+        background-color: #414141;
+        text-align: right;
+        padding: 16px 32px;
+        font-size: 32px;
+        color: #fff;
+    }
+
+    .botonCalc{
+        padding: 16px;
+        margin: 12px 8px;
+        width: 52px;
+        background-color: #e7b773;
+        color: #262626;
+        font-size: 32px;
+        border: none;
+    }
