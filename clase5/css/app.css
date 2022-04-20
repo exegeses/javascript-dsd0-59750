@@ -70,7 +70,7 @@ body{
         color: #fff;
     }
 
-    .botonCalc{
+    .botonCalc, .reset{
         padding: 16px;
         margin: 12px 8px;
         width: 52px;
@@ -78,4 +78,8 @@ body{
         color: #262626;
         font-size: 32px;
         border: none;
+    }
+    .reset{
+        width: 60px;
+        background-color: #fbd39e;
     }

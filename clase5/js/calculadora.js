@@ -21,3 +21,8 @@ function calcular( operacion )
         console.log('llega');
     }
 }
+function resetear()
+{
+    txtCalc.value = 0;
+    operacion = '';
+}
